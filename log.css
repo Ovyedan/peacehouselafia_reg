@@ -175,6 +175,13 @@ input, button, select {
       border-radius: 5px;
       font-size: .8rem;
       }
+
+    .not-loging{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+      }
   
   }
 
@@ -183,4 +190,5 @@ input, button, select {
       font-size: .8rem;
     }
     
+
   }
